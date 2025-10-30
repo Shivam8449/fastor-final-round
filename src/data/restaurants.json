@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Khan Market Bistro",
+    "location": "Khan Market, Delhi",
+    "latitude": 28.6003,
+    "longitude": 77.2273,
+    "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Chanakyapuri Brunch Club",
+    "location": "Chanakyapuri, Delhi",
+    "latitude": 28.5852,
+    "longitude": 77.1891,
+    "image": "https://images.unsplash.com/photo-1541544181891-8f62f0b3f8b8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Connaught Plate",
+    "location": "Connaught Place, Delhi",
+    "latitude": 28.6327,
+    "longitude": 77.2197,
+    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Hauz Khas Social",
+    "location": "Hauz Khas Village, Delhi",
+    "latitude": 28.5532,
+    "longitude": 77.1924,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Lodhi Fine Dining",
+    "location": "The Lodhi, Delhi",
+    "latitude": 28.592,
+    "longitude": 77.2404,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Mehrauli Garden Grill",
+    "location": "Mehrauli, Delhi",
+    "latitude": 28.5236,
+    "longitude": 77.1856,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Select City Café",
+    "location": "Select Citywalk, Delhi",
+    "latitude": 28.5296,
+    "longitude": 77.2199,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "name": "DLF Mall Eats",
+    "location": "DLF Mall of India, Noida",
+    "latitude": 28.567,
+    "longitude": 77.3212,
+    "image": "https://images.unsplash.com/photo-1555992336-cbfdb0c7b92b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Sector 18 Bistro",
+    "location": "Sector 18, Noida",
+    "latitude": 28.5709,
+    "longitude": 77.3211,
+    "image": "https://images.unsplash.com/photo-1541542684-6e0f3f7a0b1a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Noida Riverside Café",
+    "location": "Noida Sector 50",
+    "latitude": 28.5659,
+    "longitude": 77.3172,
+    "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Cyber Hub Kitchen",
+    "location": "Cyber Hub, Gurgaon",
+    "latitude": 28.4955,
+    "longitude": 77.089,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Gurgaon Terrace Grill",
+    "location": "Sector 29, Gurgaon",
+    "latitude": 28.467,
+    "longitude": 77.0685,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Ambience Mall Dining",
+    "location": "Ambience Mall, Gurgaon",
+    "latitude": 28.504,
+    "longitude": 77.097,
+    "image": "https://images.unsplash.com/photo-1541542684-8e8a2b8b7a6f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Gurgaon Alley Bites",
+    "location": "Gurgaon Old Golf Course Road",
+    "latitude": 28.4815,
+    "longitude": 77.0732,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Town Hall Delhi",
+    "location": "Khan Market, Delhi",
+    "latitude": 28.6002,
+    "longitude": 77.2282,
+    "image": "https://images.unsplash.com/photo-1533777324565-a040eb52fac2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Paharganj Corner",
+    "location": "Paharganj, Delhi",
+    "latitude": 28.6477,
+    "longitude": 77.2195,
+    "image": "https://images.unsplash.com/photo-1481833761820-0509d3217039?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Noida Night Bites",
+    "location": "Sector 62, Noida",
+    "latitude": 28.6166,
+    "longitude": 77.3776,
+    "image": "https://images.unsplash.com/photo-1516685018646-54977b8a0b89?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Gurgaon Garden Café",
+    "location": "Sohna Road, Gurgaon",
+    "latitude": 28.4305,
+    "longitude": 77.0434,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 19,
+    "name": "Cafe Gurgaon Central",
+    "location": "Sector 14, Gurgaon",
+    "latitude": 28.4597,
+    "longitude": 77.0266,
+    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 20,
+    "name": "Noida Fusion Eats",
+    "location": "Sector 18, Noida",
+    "latitude": 28.5711,
+    "longitude": 77.3209,
+    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=800&q=80"
+  }
+]
