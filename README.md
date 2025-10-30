@@ -29,7 +29,7 @@ UI Components	React Hooks + Responsive Layouts
 Notifications	React Toastify
 🚀 Installation & Setup
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/restaurant-finder.git
+git clone https://github.com/Shivam8449/fastor-final-round
 
 # 2️⃣ Navigate into the project
 cd restaurant-finder
@@ -67,4 +67,4 @@ Location Access — To calculate and display nearby restaurants.
 Frontend Developer
 📧 shivamthakur9632@gmail.com
 🪪 License
-This project is open source and available under the MIT License
+This project is open source and available under the MIT License.
