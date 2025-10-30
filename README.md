@@ -1,4 +1,16 @@
 🍽️ Nearby Restaurant Finder App
+
+LIVE DEMO IMAGES: 
+
+<img width="561" height="721" alt="Screenshot 2025-10-30 at 9 49 15 PM" src="https://github.com/user-attachments/assets/82e9ea26-451c-406e-9a2b-6699e2cbcd5c" />
+<img width="557" height="664" alt="Screenshot 2025-10-30 at 9 51 59 PM" src="https://github.com/user-attachments/assets/b10caa77-79d4-458a-a9eb-5488f5df23f1" />
+<img width="1295" height="728" alt="Screenshot 2025-10-30 at 9 49 46 PM" src="https://github.com/user-attachments/assets/01b14489-d518-4687-893d-716b1d56ffec" />
+<img width="595" height="717" alt="Screenshot 2025-10-30 at 9 49 58 PM" src="https://github.com/user-attachments/assets/7f83209c-8393-4e4a-a90f-da18df570e74" />
+
+
+
+
+
 🌍 Overview
 The Restaurant Finder App helps users quickly locate nearby restaurants using real-time geolocation.
 It shows the distance from the user’s current location to each restaurant and includes a simple mobile OTP login system with toast notifications.
