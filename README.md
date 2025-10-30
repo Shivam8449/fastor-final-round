@@ -44,7 +44,7 @@ Notifications	React Toastify
 git clone https://github.com/Shivam8449/fastor-final-round
 
 # 2️⃣ Navigate into the project
-cd restaurant-finder
+cd fastor final round
 
 # 3️⃣ Install dependencies
 npm install
