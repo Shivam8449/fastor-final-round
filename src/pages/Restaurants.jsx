@@ -56,18 +56,28 @@ export default function Restaurants() {
   }, [userLocation]);
 
   return (
-    <div className="p-6 text-center bg-gradient-to-br from-indigo-950 to-black min-h-screen text-white">
-      <h1 className="text-3xl font-extrabold mb-6 text-amber-400 tracking-wide drop-shadow-md">
+    <div className="w-full min-h-screen overflow-x-hidden bg-gradient-to-br from-gray-950 via-indigo-950 to-black text-white flex flex-col items-center justify-start m-0 p-0">
+      {/* Title */}
+      <h1 className="text-4xl sm:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 drop-shadow-[0_0_25px_rgba(245,158,11,0.6)] tracking-wide mt-12 mb-6 text-center">
         Nearby Restaurants 🍽️
       </h1>
 
+      {/* Loading */}
       {!restaurants.length && (
-        <p className="text-gray-400 mt-10">Fetching nearby restaurants...</p>
+        <p className="text-gray-400 text-lg mt-10 animate-pulse">
+          Fetching nearby restaurants...
+        </p>
       )}
 
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 mt-6">
+      {/* Restaurant Grid */}
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 mt-6 w-full max-w-7xl px-4 sm:px-6 pb-10">
         {restaurants.map((r) => (
-          <RestaurantCard key={r.id} restaurant={r} />
+          <div
+            key={r.id}
+            className="transform transition-all hover:scale-[1.02] duration-300"
+          >
+            <RestaurantCard restaurant={r} />
+          </div>
         ))}
       </div>
     </div>
